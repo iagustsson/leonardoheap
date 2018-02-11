@@ -8,6 +8,6 @@ Like heapsort, smoothsort has the general characteristic of O(n⋅log(n)) when s
 for an input that is initially (nearly) sorted, smoothsort is of order O(n), "with a smooth transition 
 between the two, hence its name"
 
-"Smoothsort, an alternative for sorting in situ"
-[EWD82](http://www.cs.utexas.edu/~EWD/transcriptions/EWD07xx/EWD796a.html)
-[Wiki](https://en.wikipedia.org/wiki/Smoothsort)
+[Smoothsort, an alternative for sorting in situ [EWD82]](http://www.cs.utexas.edu/~EWD/transcriptions/EWD07xx/EWD796a.html)
+
+[Smoothsort from Wikipedia](https://en.wikipedia.org/wiki/Smoothsort)
