@@ -20,7 +20,7 @@
  * SOFTWARE.
  *
  */
-package com.iagustsson.heap;
+package com.iagustsson.leonardoheap;
 
 import java.util.Arrays;
 import java.util.Random;
